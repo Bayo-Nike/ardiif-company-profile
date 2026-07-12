@@ -43,7 +43,7 @@ This website serves as a personal portfolio to showcase my skills, projects, ser
 
 ## 🌐 Live Demo
 
-View the live site here (Netlify)](https://ardiiftech.netlify.app//)
+View the live site here (Netlify)](https://ardiiftech.netlify.app/)
 
 ---
 
