@@ -1,4 +1,4 @@
-# My Portfolio Website
+# Company Portfolio Website
 
 A clean, responsive multipage portfolio website built with **HTML5**, **CSS3**, and **JavaScript**.
 
